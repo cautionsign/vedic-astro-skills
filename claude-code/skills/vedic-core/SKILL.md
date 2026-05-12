@@ -342,6 +342,8 @@ E. 果实投射（Rashi Tulya Navamsha）：
 
 ## Step 3: 宫位诊断
 
+**开始前先回调数据**：用view_file重读p2a/p2b/p2c_planets.md中的行星审计表格，确保宫位分析引用的是精确数据而非对话记忆。
+
 **参考：resources/house_framework.md**
 
 ### 诊断框架
